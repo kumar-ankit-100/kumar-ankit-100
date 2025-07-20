@@ -10,9 +10,11 @@
 ### 👨‍💻 About Me
 - 🎓 B.Tech CSE @ **IIIT Manipur** (2022–2026) | CGPA: **7.91**
 - 💼 Incoming **SDE Intern @ Bluestock Fintech**
+- 🌐 Check out my portfolio: [my-portfolio-566j.vercel.app](https://my-portfolio-566j.vercel.app/)
 - 📊 **Data Analytics Intern @ Zidio** – Working with SQL, Python, Dashboards
 - ⚡ Passionate about **AI, ML, Deep Learning, Web Dev, NLP, Hackathons**
 - 🌱 Currently exploring: **RLHF, System Design, AI in Finance**
+
 
 ---
 
@@ -96,9 +98,11 @@
 
 ### 📫 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-566j.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ankit-kumar-95b8a3268/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/kumar-ankit-100)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:kumar.ankitr0321@gmail.com)
+
 
 ---
 
