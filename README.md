@@ -9,7 +9,6 @@
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech CSE @ **IIIT Manipur** (2022–2026) | CGPA: **7.91**
-- 💼 Incoming **SDE Intern @ Bluestock Fintech**
 - 🌐 Check out my portfolio: [my-portfolio-566j.vercel.app](https://my-portfolio-566j.vercel.app/)
 - 📊 **Data Analytics Intern @ Zidio** – Working with SQL, Python, Dashboards
 - ⚡ Passionate about **AI, ML, Deep Learning, Web Dev, NLP, Hackathons**
